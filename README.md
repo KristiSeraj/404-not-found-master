@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{mrcoku.github.io/404-not-found-master/}">
+    <a href="https://mrcoku.github.io/404-not-found-master/">
       Demo
     </a>
     <span> | </span>
@@ -45,5 +45,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@MrCoku](https://{github.com/MrCoku})
-- Twitter [coku_mr](https://{twitter.com/coku_mr})
+- GitHub [@MrCoku](https://github.com/MrCoku)
+- Twitter [coku_mr](https://twitter.com/coku_mr)
